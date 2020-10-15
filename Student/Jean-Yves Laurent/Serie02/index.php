@@ -1,2 +1,2 @@
 <?php
-header('Location: controller/page1.php');
+header('Location: Controller/page1.php');

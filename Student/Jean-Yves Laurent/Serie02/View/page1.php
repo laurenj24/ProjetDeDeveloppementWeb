@@ -12,25 +12,25 @@
 			<section class="col-lg-10">
 				<div class="row">
 					<article class="col-sm-8">
-						<img class="img-responsive" src="1.jpg" alt="">
+						<img class="img-responsive" src="../View/images/1.jpg" alt="">
 						<p>Charles Michel avec les étudiants en Erasmus</p>
 						
 					</article>
 					<article class="col-sm-4">
-						<img class="img-responsive" src="2.jpg" alt="image cop23">
+						<img class="img-responsive" src="../View/images/2.jpg" alt="image cop23">
 						<p>COP23:"La Belgique partage le sentiment d\'urgence et agit</p>
 					</article>
 					<article class="col-sm-4">
-						<img class="img-responsive" src="3.jpg" alt="hugo Clément">
+						<img class="img-responsive" src="../View/images/3.jpg" alt="hugo Clément">
 						<p>Le journaliste Hugo Clément quitte «Quoditien»</p>
 					</article>
 
 					<article class="col-sm-4">
-						<img class="img-responsive" src="4.jpg" alt="image sanglier coincé">
+						<img class="img-responsive" src="../View/images/4.jpg" alt="image sanglier coincé">
 						<p>Un sanglier coincé dans une piscine à Erpent</p>
 					</article>
 					<article class="col-sm-8">
-						<img class="img-responsive" src="/images/5.jpg" alt="image d\'un Rassemblement devant l’Albertine">
+						<img class="img-responsive" src="../View/images/5.jpg" alt="image d\'un Rassemblement devant l’Albertine">
 						<p>Rassemblement devant l’Albertine</p>
 					</article>
 

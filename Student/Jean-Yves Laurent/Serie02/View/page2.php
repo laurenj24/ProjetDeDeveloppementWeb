@@ -12,7 +12,7 @@
 			<section class="col-lg-10">
 				<div class="row">
 					<article class="col-sm-6">
-						<img class="img-responsive" src="/images/italie.jpg" alt="">
+						<img class="img-responsive" src="../View/images/italie.jpg" alt="">
 						<h2>Généralités</h2>
 						<p>Confédération:	UEFA</p>
 						<p>Couleurs :	Bleu marine et blanc</p>
@@ -20,7 +20,7 @@
 						<p>Classement FIFA :	17e (14 septembre 2017)</p>
 					</article>
 					<article class="col-sm-6">
-						<img class="img-responsive" src="belgique.jpg" alt="">
+						<img class="img-responsive" src="../View/images/belgique.jpg" alt="">
 						<h2>Généralités</h2>
 						<p>Confédération :	UEFA</p>
 						<p>Surnom :	Les Diables Rouges</p>
