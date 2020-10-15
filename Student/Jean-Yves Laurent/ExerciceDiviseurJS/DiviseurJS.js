@@ -19,7 +19,7 @@ function getDiviseursAndShow(userNumber){
         }
     }
     document.write("<h1 style=\"text-align: right\"> Diviseur Javascript </h1>");
-    document.write("Diviseur de \'"+ userNumber +"\': </br>")
+    document.write("Diviseurs de \'"+ userNumber +"\': </br>")
     for (i = 0; i < rangeNumber.length; i++){
         if (i == rangeNumber.length-1){
             document.write(rangeNumber[i]);
